@@ -15,6 +15,6 @@ nav a:hover{
 }
 
 .active{
-    background-color: greenyellow;
-    color: antiquewhite;
+    background-color: gainsboro;
+    color: #000;
 }
